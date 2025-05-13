@@ -1,7 +1,7 @@
 # python-project1
-# KBC Quiz Game 🎮
+# Quiz Game 🎮
 
-Welcome to the **KBC Quiz Game**! 🏆 This is an interactive quiz game inspired by the famous TV show "Kaun Banega Crorepati" (KBC). Built using Python and Tkinter, this game brings a fun and challenging quiz experience with lifelines, score tracking, and a timer, all within a beautiful graphical user interface (GUI).
+Welcome to the **Quiz Game**! 🏆 This is an interactive quiz game inspired by the famous TV show "Kaun Banega Crorepati" (KBC). Built using Python and Tkinter, this game brings a fun and challenging quiz experience with lifelines, score tracking, and a timer, all within a beautiful graphical user interface (GUI).
 
 ## 🚀 Features
 
